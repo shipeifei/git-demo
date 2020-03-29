@@ -1,2 +1,3 @@
-git fetch 更新远程代码到本地仓库
-
+将远程origin仓库的xx分支合并到本地的yy分支。
+git fetch origin xx
+git merge FETCH_HEAD
