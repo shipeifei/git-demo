@@ -1,5 +1,2 @@
-qwerqwrqwerqwrqwrq
-qwerqweer
-qwerqwer
-qwerqwerqewrqewrqwq:wq
+git fetch 更新远程代码到本地仓库
 
