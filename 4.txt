@@ -1,7 +1,1 @@
-
-修sfdasdfasdfasdfasdfasdfas改master分支4.txt内容
-
-
-我是在wanger分支添加的内容
-
-
+想要更好的提交树，使用rebase操作会更好一点。
